@@ -101,6 +101,16 @@ def _make_request(sign):
  
 2. Seuraavaksi ajetaan ja testataan moduuli salt masterilla.
 `salt '*' weather.get KPHL`
-Nyt sen pitäisi tulostaa ruudulle sää sekä lämpötila.
+Hurraa! Nyt sen pitäisi tulostaa ruudulle sää sekä lämpötila.
+
+## Tämä projekti tehtiin tehtävänantona Tero Karvisen Palvelinten hallinta kurssilla syksyllä 2022.
+
+### Lähteet
+Salt.io
+
+linode.com
+
+terokarvinen.com
+
     
   
